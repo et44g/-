@@ -1,3 +1,3 @@
 <h1> cfg27 </h1>
-**CFG27** is a lightweight and versatile PHP library designed to simplify configuration management in web applications. It offers an intuitive API for reading, writing, and manipulating configuration files (JSON, YAML, or PHP arrays) with minimal overhead. The library supports environment-based configurations, dynamic value overrides, and caching for improved performance. Ideal for small to medium projects, **CFG27** ensures clean and maintainable configuration handling without complex dependencies. Its MIT license allows for flexible use in both open-source and commercial projects.
+
 
